@@ -3,26 +3,51 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Dan Mocnik",
-  description: "Dan's website",
+  description: "Dan's personal website",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Resume', link: '/resume' },
+      { text: 'Projects', link: '/projects' },
+      { text: 'Blog', link: '/blog' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Resume', link: '/resume' },
+          { text: 'Projects', link: '/projects' },
+          { text: 'Blog', link: '/blog' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { 
+        icon: {
+          svg: '<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M160-160q-33 0-56.5-23.5T80-240v-480q0-33 23.5-56.5T160-800h640q33 0 56.5 23.5T880-720v480q0 33-23.5 56.5T800-160H160Zm320-280L160-640v400h640v-400L480-440Zm0-80 320-200H160l320 200ZM160-640v-80 480-400Z"/></svg>'
+        }, 
+        link: 'mailto:dmocnik@dmocnik.me'
+      },
+      { icon: 'github', link: 'https://github.com/dmocnik' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/daniel-mocnik/'}
+    ],
+
+    footer: {
+      copyright: '© 2023 Dan Mocnik'
+    },
+
+    lastUpdated: {
+      text: 'Last Updated',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium',
+      }
+    },
+
+    search: {
+      provider: 'local'
+    }
   }
 })
