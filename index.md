@@ -6,7 +6,7 @@ hero:
   name: Dan Mocnik
   text: 🤖 💻 👨‍💻
   tagline: Computer Science graduate
-  image: assets/pic2.png
+  image: public/pic2.png
   actions:
     - theme: brand
       text: Resume
