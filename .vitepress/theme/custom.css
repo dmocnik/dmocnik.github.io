@@ -9,3 +9,21 @@
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #04daf6 0%, #ff003c);
     --vp-home-hero-image-background-image: linear-gradient(-45deg, #04daf6 50%,#ff003c 50%);
 }
+
+.video-background {
+    position: fixed; 
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+video {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}

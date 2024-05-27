@@ -1,8 +1,8 @@
 ---
 sidebar: false
-#outline: false
 prev: false
 next: false
+aside: false
 ---
 
 # Resume
