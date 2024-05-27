@@ -8,13 +8,13 @@ aside: false
 # Resume
 
 ## Education
-<span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">Expected Graduation April 2024</span>
+<span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">Graduated in April 2024</span>
 <br clear="all" />
 **Bachelor of Computer Science**
 
 ## Work Experience
 
-### Oakland Center - Grizz Den Technology Assistant
+### Oakland Center – Grizz Den Technology Assistant
 
 <span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">September 2023 – </span>
 <br clear="all" />
@@ -41,18 +41,21 @@ aside: false
 
 ## Technical Skills
 
-<u>**Programming Languages**</u>: Python, Java, JavaScript, C, C++ \
-<u>**Software Applications**</u>: Microsoft Word, Excel, PowerPoint, Access, Active Directory, Jamf, ggLeap/ggRock \
+<u>**Programming Languages**</u>: Python, Java, JavaScript, C \
+<u>**Software Applications**</u>: Microsoft Word, Excel, PowerPoint, Access, Active Directory, Jamf, ggLeap/ggRock, ROS/ROS2 \
 <u>**Operating Systems**</u>: Windows 7, 8, 10, 11, macOS, Ubuntu, Debian
 
 ## Activities and Awards
 
-- Oakland Robotics Association, President & Software Lead <span style="float:right;">September 2019 - Present</span><br clear="all" />
-    - Collaborated with team members to prepare an autonomous robot and competed in the 2021, 2022, and 2023 Intelligent Ground Vehicle Competition (IGVC).
-    - Designed and implemented the software for the robot in a Robot Operating System (ROS) environment, and contributed to the robot's electrical system.
-    - Coordinate with other SECS & OU staff members for events, safety training, meetings, etc.
-    - Previous Roles:
-        - Vice President & Software Lead, July 2022 - June 2023
-        - Treasurer, July 2021 - July 2022
-        - Member, September 2019 – July 2021
-- Eagle Scout, March 2019
+### Robotics Association at Oakland University
+<span style="float:left;">President & Software Lead</span> <span style="float:right;">September 2019 - Present</span>
+<br clear="all" />
+- Collaborated with team members to prepare an autonomous robot and competed in the 2021, 2022, and 2023 Intelligent Ground Vehicle Competition (IGVC).
+- Designed and implemented the software for the robot in a Robot Operating System 2 (ROS2) environment, and contributed to the robot's electrical system.
+- Coordinate with other SECS & OU staff members for events, safety training, meetings, etc.
+- Previous Roles:
+    - Vice President & Software Lead (July 2022 - June 2023)
+    - Treasurer (July 2021 - July 2022)
+    - Member (September 2019 – July 2021)
+
+### Eagle Scout <span style="float:right; font-size: initial; font-weight: normal;">March 2019</span>
