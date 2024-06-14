@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: Dan Mocnik
-  text: 🤖 💻 👨‍💻
-  tagline: Computer Science graduate
+  text: B.S., Computer Science
+  tagline: 🤖 💻 👨‍💻
   image: pic2.png
   actions:
     - theme: brand
@@ -26,6 +26,12 @@ hero:
 </div>
 <br clear="all" /> -->
 
-Hi! I'm Dan, a recent Computer Science graduate from Oakland University. My academic journey has allowed me to learn several programming languages like Python, Java, C, and JavaScript and gain hands-on experience in the fundamentals of CS, software development, and system administration. I'm also currently the president of the Robotics Association at Oakland University, where I primarily work on the software for our robot while leading the team in the Intelligent Ground Vehicle Competition. Some of my other computer-science related interests include natural language processing and game design/development.
+<style>
+  .tagline {
+      color: rgba(235, 235, 245, 1.0) !important;
+  }
+</style>
+
+Hi! I'm Dan, a recent Computer Science graduate from Oakland University. My academic journey has allowed me to learn several programming languages like Python, Java, C, and JavaScript and gain hands-on experience in the fundamentals of CS, software development, and system administration. I was also the president of the Robotics Association at Oakland University, where I primarily worked on the software for our robot while leading the team to compete in the [Intelligent Ground Vehicle Competition](http://www.igvc.org/). Some of my other computer-science related interests include natural language processing and game design/development.
 
 When I'm not sat behind a computer somewhere, some of my hobbies include 3D printing, photography, biking, playing video games, and petting my dog.
