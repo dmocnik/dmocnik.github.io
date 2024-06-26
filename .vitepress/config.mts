@@ -27,7 +27,9 @@ export default defineConfig({
         items: [
           { text: 'Nextcloud', link: '/projects/nextcloud' },
           { text: 'Dashboard.lol', link: '/projects/dashboard.lol' },
-          { text: 'Lyric Generator', link: '/projects/lyric-generator' }
+          { text: 'Scribe', link: '/projects/scribe'},
+          { text: 'IGVC Robot', link: '/projects/igvc'},
+          //{ text: 'Lyric Generator', link: '/projects/lyric-generator' }
         ]
       },
       {
@@ -49,6 +51,8 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/dmocnik' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/daniel-mocnik/'}
     ],
+
+    outline: 'deep',
 
     footer: {
       copyright: '© 2024 Dan Mocnik'
