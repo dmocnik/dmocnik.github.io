@@ -1,19 +1,24 @@
 // https://vitepress.dev/guide/custom-theme
-import { h } from 'vue'
-import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+
+// the zoom crap
+import 'viewerjs/dist/viewer.min.css';
+import imageViewer from 'vitepress-plugin-image-viewer';
+import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
+import { useRoute } from 'vitepress';
+
 import './style.css'
 import './font.css'
 import './custom.css'
 
 export default {
-  extends: DefaultTheme,
-  Layout: () => {
-    return h(DefaultTheme.Layout, null, {
-      // https://vitepress.dev/guide/extending-default-theme#layout-slots
-    })
+  ...DefaultTheme,
+  enhanceApp(ctx) {
+      DefaultTheme.enhanceApp(ctx);
+      ctx.app.component('vImageViewer', vImageViewer);
   },
-  enhanceApp({ app, router, siteData }) {
-    // ...
+  setup() {
+      const route = useRoute();
+      imageViewer(route);
   }
-} satisfies Theme
+}
