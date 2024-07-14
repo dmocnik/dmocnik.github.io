@@ -11,11 +11,14 @@ import './style.css'
 import './font.css'
 import './custom.css'
 
+import Image from '../components/Image.vue';
+
 export default {
   ...DefaultTheme,
   enhanceApp(ctx) {
       DefaultTheme.enhanceApp(ctx);
       ctx.app.component('vImageViewer', vImageViewer);
+      ctx.app.component('Image', Image)
   },
   setup() {
       const route = useRoute();
