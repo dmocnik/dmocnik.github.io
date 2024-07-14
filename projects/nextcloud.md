@@ -18,14 +18,12 @@ For my project, I decided to deploy [Nextcloud](https://nextcloud.com/), an open
 
 ## Screenshots
 
-![](../assets/projects/nextcloud_0.png)
-<center><em>The login screen</em></center>
+*Click to enlarge.*
 
-![](../assets/projects/nextcloud_1.png)
-<center><em>The dashboard</em></center>
+<Image src='../assets/projects/nextcloud_0.png' caption='The login screen'/>
 
-![](../assets/projects/nextcloud_2.png)
-<center><em>Viewing some files</em></center>
+<Image src='../assets/projects/nextcloud_1.png' caption='The dashboard'/>
 
-![](../assets/projects/nextcloud_3.png)
-<center><em>The documentation website</em></center>
+<Image src='../assets/projects/nextcloud_2.png' caption='Viewing some files'/>
+
+<Image src='../assets/projects/nextcloud_3.png' caption='The documentation website'/>
