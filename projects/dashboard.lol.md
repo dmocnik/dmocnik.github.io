@@ -23,10 +23,10 @@ So we bought the domain `dashboard.lol`, and that became the name of our project
 
 *Click to enlarge.*
 
-<Image src='../assets/projects/dashboard_0.png' caption='The main Dashboard screen'/>
+<Image src='/projects/dashboard_0.png' caption='The main Dashboard screen'/>
 
-<Image src='../assets/projects/dashboard_1.png' caption='Editing user info, and number of columns on dashboard'/>
+<Image src='/projects/dashboard_1.png' caption='Editing user info, and number of columns on dashboard'/>
 
-<Image src='../assets/projects/dashboard_2.png' caption='The "widget store" where you can add and remove widgets from your dashboard'/>
+<Image src='/projects/dashboard_2.png' caption='The "widget store" where you can add and remove widgets from your dashboard'/>
 
-<Image src='../assets/projects/dashboard_3.png' caption='ER diagram of the database'/>
+<Image src='/projects/dashboard_3.png' caption='ER diagram of the database'/>

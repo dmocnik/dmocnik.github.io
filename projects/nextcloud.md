@@ -20,10 +20,10 @@ For my project, I decided to deploy [Nextcloud](https://nextcloud.com/), an open
 
 *Click to enlarge.*
 
-<Image src='../assets/projects/nextcloud_0.png' caption='The login screen'/>
+<Image src='/projects/nextcloud_0.png' caption='The login screen'/>
 
-<Image src='../assets/projects/nextcloud_1.png' caption='The dashboard'/>
+<Image src='/projects/nextcloud_1.png' caption='The dashboard'/>
 
-<Image src='../assets/projects/nextcloud_2.png' caption='Viewing some files'/>
+<Image src='/projects/nextcloud_2.png' caption='Viewing some files'/>
 
-<Image src='../assets/projects/nextcloud_3.png' caption='The documentation website'/>
+<Image src='/projects/nextcloud_3.png' caption='The documentation website'/>

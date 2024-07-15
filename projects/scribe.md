@@ -28,10 +28,10 @@ In our class's presentation competition, we took first place in Technical Impact
 
 *Click to enlarge.*
 
-<Image src='../assets/projects/scribe_0.png' caption='Sign in/account creation page'/>
+<Image src='/projects/scribe_0.png' caption='Sign in/account creation page'/>
 
-<Image src='../assets/projects/scribe_1.png' caption='"My Projects" page, where users can view and manage their lecture uploads'/>
+<Image src='/projects/scribe_1.png' caption='"My Projects" page, where users can view and manage their lecture uploads'/>
 
-<Image src='../assets/projects/scribe_2.png' caption='A project, where users upload their lecture, and view the various AI-generated media'/>
+<Image src='/projects/scribe_2.png' caption='A project, where users upload their lecture, and view the various AI-generated media'/>
 
-<Image src='../assets/projects/scribe_poster.png' caption='Design Expo Poster'/>
+<Image src='/projects/scribe_poster.png' caption='Design Expo Poster'/>

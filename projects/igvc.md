@@ -13,7 +13,7 @@ The objective there is for your robot to autonomously complete an obstacle cours
 As the Software Lead, my task was to create the entire software stack that allows the robot to be able to perceive its environment and run the IGVC course.
 [Horizon, our robot for 2024](http://www.igvc.org/design/2024/10.pdf), was equipped with a [Stereolabs ZED 2i Depth Camera](https://www.stereolabs.com/products/zed-2) and a [SparkFun GPS-RTK module kit](https://www.sparkfun.com/products/23452).
 
-<Image src='../assets/projects/igvc_0.png' caption='Horizon!'/>
+<Image src='/projects/igvc_0.png' caption='Horizon!'/>
 
 Horizon's software runs on an [Nvidia Jetson Orin Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/), with ROS 2 Humble Hawksbill on Ubuntu.
 I primarily used [Nav2](https://nav2.org/) to handle the mapping, path planning, and localization.
@@ -28,17 +28,17 @@ Finally, I wrote a few ROS2 nodes to facilitate the communication between the Je
 
 *Click to enlarge.*
 
-<Image src='../assets/projects/igvc_1.png' caption='Lane line detection with OpenCV'/>
+<Image src='/projects/igvc_1.png' caption='Lane line detection with OpenCV'/>
 
-<Image src='../assets/projects/igvc_2.png' caption='Mapping and path planning with Nav2'/>
+<Image src='/projects/igvc_2.png' caption='Mapping and path planning with Nav2'/>
 
 <p>
     <video controls>
-        <source src="/assets/projects/gazebo.webm" type="video/webm">
+        <source src="/projects/gazebo.webm" type="video/webm">
     </video>
     <center style="margin-top: 4px;">
         <em>Simulated IGVC course in Gazebo</em>
     </center>
 </p>
 
-<Image src='../assets/projects/pov.gif' caption="POV: You're the robot"/>
+<Image src='/projects/pov.gif' caption="POV: You're the robot"/>
