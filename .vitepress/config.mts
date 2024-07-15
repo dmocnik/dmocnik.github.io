@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Dan Mocnik",
   description: "Dan's personal website",
+  srcDir: './src',
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
