@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Dan Mocnik",
   description: "Dan's personal website",
   srcDir: './src',
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
