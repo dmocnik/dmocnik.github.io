@@ -14,7 +14,7 @@ For my project, I decided to deploy [Nextcloud](https://nextcloud.com/), an open
 
 ### Source Code
 
-[Take a look at the bash scripts created for this project on GitHub.](https://github.com/dmocnik/misc/tree/master/csi3660_project)
+[Take a look at the bash scripts created for this project on GitHub.](https://github.com/dmocnik/misc/tree/main/csi3660_project)
 
 ## Screenshots
 
