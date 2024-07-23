@@ -17,7 +17,7 @@ export default defineConfig({
         activeMatch: '/projects/' },
       { 
         text: 'Blog', 
-        link: '/blog/first-post',
+        link: '/blog/initializing',
         activeMatch: '/blog/'
       }
     ],
@@ -38,7 +38,7 @@ export default defineConfig({
         text: 'Blog',
         collapsed: false,
         items: [
-          { text: 'First Post', link: '/blog/first-post' }
+          { text: 'Intializing...', link: '/blog/initializing' }
         ]
       }
     ],

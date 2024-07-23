@@ -16,7 +16,7 @@ hero:
       link: /projects/nextcloud
     - theme: alt
       text: Blog
-      link: /blog
+      link: /blog/initializing
 ---
 
 <!-- <div class="video-background">
