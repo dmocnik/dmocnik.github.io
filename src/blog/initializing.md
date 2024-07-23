@@ -9,17 +9,23 @@ While I'm not entirely sure what I want to write about yet, it'll most likely in
 
 For now, enjoy this dad joke:
 
-> <em id="dadjoke"></em>
-<component is="script">
-    fetch('https://icanhazdadjoke.com/', {
-        headers: {
-          'Accept': 'application/json'
-        }
-      })
-      .then(res => res.json())
-      .then(data => {
-        document.getElementById("dadjoke").innerText = data.joke
-      });
-</component>
+> <em id="dadjoke">{{ joke }}</em>
+<script setup>
+import { ref, onMounted } from 'vue';
+
+const joke = ref('');
+
+onMounted(() => {
+  fetch('https://icanhazdadjoke.com/', {
+    headers: {
+      'Accept': 'application/json'
+    }
+  })
+  .then(res => res.json())
+  .then(data => {
+    joke.value = data.joke;
+  });
+});
+</script>
 
 *(Refresh the page for a new joke.)*
