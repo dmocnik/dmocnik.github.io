@@ -12,17 +12,15 @@ aside: false
 Recent computer science graduate with hands-on experience in IT, robotics, and software.  Proficient in utilizing troubleshooting and problem-solving skills to remedy technical issues.  Effective written and oral communication skills with strong team-playing abilities.  Self-motivated and willing to learn and adapt to new technologies.
 
 ## Education
-<span style="float:left;">**Bachelor of Science in Computer Science**</span>  <span style="float:right;">April 2024</span>
-<br clear="all" />
-<span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">GPA 3.14</span>
-<br clear="all" />
+<p>
+    <SplitText left='**Bachelor of Science in Computer Science**' right='April 2024' />
+    <SplitText left='Oakland University, Rochester, MI' right='GPA 3.14' />
+</p>
 
 ## Work Experience
 
 ### Oakland Center – Grizz Den Technology Assistant
-
-<span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">September 2023 – May 2024</span>
-<br clear="all" />
+<p><SplitText left='Oakland University, Rochester, MI' right='September 2023 – May 2024' /></p>
 
 - Maintained 28 gaming systems by applying the latest game patches and troubleshooting hardware and software problems to ensure smooth operation.
 - Configured and managed a Debian-based PXE server to maintain consistent system images.
@@ -30,9 +28,7 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 
 
 ### Student Affairs and Diversity IT – Helpdesk Technician
-
-<span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">August 2021 – September 2023</span>
-<br clear="all" />
+<p><SplitText left='Oakland University, Rochester, MI' right='August 2021 – September 2023' /></p>
 
 - Assisted faculty and staff across 20+ departments by resolving technical issues, maintaining their IT infrastructure, and troubleshooting PCs, Apple computers and iPads, VoIP phones, and printers.
 - Managed 450+ PC objects in Active Directory and maintained Apple computers and devices within OU’s Jamf instance; created new computer objects and configurations as needed.
@@ -41,8 +37,8 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 ## Leadership Experience
 
 ### Robotics Association at Oakland University
-<span style="float:left;">**President & Software Lead**</span> <span style="float:right;">September 2019 - July 2024</span>
-<br clear="all" />
+<p><SplitText left='**President & Software Lead**' right='September 2019 - July 2024' /></p>
+
 - Led team members in the designing and construction of an autonomous robot and participated in the 2024 Intelligent Ground Vehicle Competition (IGVC).
 - Designed and implemented the software for the robot utilizing Robot Operating System 2 (ROS2) and assisted the mechanical and electrical sub-teams where required.
 - Coordinated with other student organizations and staff members within the School of Engineering and Computer Science to facilitate events, safety training sessions, meetings, etc.  
@@ -64,7 +60,7 @@ Windows 7/8/10/11, macOS, Ubuntu, Debian
 
 ## Awards
 
-### Eagle Scout <span style="float:right; font-size: initial; font-weight: normal;">March 2019</span>
+<p><SplitText left='**Eagle Scout**' right='March 2019' /></p>
 
 
 <!-- ## Work Projects

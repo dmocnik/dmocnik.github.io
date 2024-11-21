@@ -12,13 +12,15 @@ import './font.css'
 import './custom.css'
 
 import Image from '../components/Image.vue';
+import SplitText from '../components/SplitText.vue';
 
 export default {
   ...DefaultTheme,
   enhanceApp(ctx) {
       DefaultTheme.enhanceApp(ctx);
       ctx.app.component('vImageViewer', vImageViewer);
-      ctx.app.component('Image', Image)
+      ctx.app.component('Image', Image);
+      ctx.app.component('SplitText', SplitText);
   },
   setup() {
       const route = useRoute();
