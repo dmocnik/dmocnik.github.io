@@ -15,15 +15,16 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 <span style="float:left;">**Bachelor of Science in Computer Science**</span>  <span style="float:right;">April 2024</span>
 <br clear="all" />
 <span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">GPA 3.14</span>
+<br clear="all" />
 
 ## Work Experience
 
 ### Oakland Center – Grizz Den Technology Assistant
 
-<span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">September 2023 – Present</span>
+<span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">September 2023 – May 2024</span>
 <br clear="all" />
 
-- Maintained fleet of 28 gaming systems, ensuring latest game patches were applied and ran smoothly; diagnosed, troubleshot, and repaired hardware and software issues.
+- Maintained 28 gaming systems by applying the latest game patches and troubleshooting hardware and software problems to ensure smooth operation.
 - Configured and managed a Debian-based PXE server to maintain consistent system images.
 - Provided setup and technical assistance for events requiring use of gaming systems as needed.
 
@@ -35,25 +36,9 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 
 - Assisted faculty and staff across 20+ departments by resolving technical issues, maintaining their IT infrastructure, and troubleshooting PCs, Apple computers and iPads, VoIP phones, and printers.
 - Managed 450+ PC objects in Active Directory and maintained Apple computers and devices within OU’s Jamf instance; created new computer objects and configurations as needed.
-- Created Dell Premier quotes for new computer procurement, imaged and configured new devices, and created a custom Windows 10 installer with the division’s standard programs and customizations.
+- Created Dell Premier quotes for new computer procurement, imaged and configured new devices, and created a custom Windows 10 installer with the division’s standard programs and adjustments.
 
-<!-- ## Work Projects
-
-### Student Affairs and Diversity IT – Grizz Den ggLeap/ggRock Setup
-
-<span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">June 2023 – August 2023</span>
-<br clear="all" />
-- Set up and configured the Debian-based ggRock PXE server for the Grizz Den in the Oakland Center.
-- Created a Windows image, and installed basic programs, game launchers, and games for the center’s 28 PCs to boot into, reducing the effort needed for new game installs, game updates, Windows updates, etc.
-- Imaged SSDs of all PCs with a “fallback image” in the event that the server goes down or is not allowing PXE boot. -->
-
-## Technical Skills
-
-<u>**Programming Languages**</u>: Python, Java, JavaScript, C \
-<u>**Software Applications**</u>: Microsoft Office, Google Suite, Git/GitHub, Atlassian Jira/Trello, ROS/ROS2 \
-<u>**Operating Systems**</u>: Windows 7/8/10/11, macOS, Ubuntu, Debian
-
-## Activities and Awards
+## Leadership Experience
 
 ### Robotics Association at Oakland University
 <span style="float:left;">**President & Software Lead**</span> <span style="float:right;">September 2019 - July 2024</span>
@@ -66,4 +51,28 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
     - Treasurer (July 2021 - July 2022)
     - Member (September 2019 – July 2021)
 
+## Technical Skills
+
+### Programming Languages
+Python, JavaScript, Java, C
+
+### Software Applications
+Git/GitHub, Atlassian Jira/Trello, ROS/ROS2, Docker, Microsoft Office, Google Suite
+
+### Operating Systems
+Windows 7/8/10/11, macOS, Ubuntu, Debian
+
+## Awards
+
 ### Eagle Scout <span style="float:right; font-size: initial; font-weight: normal;">March 2019</span>
+
+
+<!-- ## Work Projects
+
+### Student Affairs and Diversity IT – Grizz Den ggLeap/ggRock Setup
+
+<span style="float:left;">Oakland University, Rochester, MI</span>  <span style="float:right;">June 2023 – August 2023</span>
+<br clear="all" />
+- Set up and configured the Debian-based ggRock PXE server for the Grizz Den in the Oakland Center.
+- Created a Windows image, and installed basic programs, game launchers, and games for the center’s 28 PCs to boot into, reducing the effort needed for new game installs, game updates, Windows updates, etc.
+- Imaged SSDs of all PCs with a “fallback image” in the event that the server goes down or is not allowing PXE boot. -->
