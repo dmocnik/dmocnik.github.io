@@ -33,4 +33,4 @@ onMounted(() => {
 });
 </script>
 
-<button @click="getDadJoke">New Dad Joke</button>
+<button class="inline-button" @click="getDadJoke">New Dad Joke</button>

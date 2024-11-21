@@ -29,7 +29,7 @@
     object-fit: cover;
 } */
 
-button {
+.inline-button {
     padding: 4px 8px;
     border-radius: 4px;
     border-color: var(--vp-button-alt-border);
@@ -37,7 +37,7 @@ button {
     background-color: var(--vp-button-alt-bg);
 }
 
-button:hover {
+.inline-button:hover {
     border-color: var(--vp-button-alt-hover-border);
     color: var(--vp-button-alt-hover-text);
     background-color: var(--vp-button-alt-hover-bg);
