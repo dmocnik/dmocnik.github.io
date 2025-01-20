@@ -19,45 +19,45 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 
 ## Work Experience
 
-### Oakland Center – Grizz Den Technology Assistant
-<p><SplitText left='Oakland University, Rochester, MI' right='September 2023 – May 2024' /></p>
+### Oakland Center - Grizz Den Technology Assistant {#grizz-den}
+<p><SplitText left='Oakland University, Rochester, MI' right='September 2023 - May 2024' /></p>
 
 - Maintained 28 gaming systems by applying the latest game patches and troubleshooting hardware and software problems to ensure smooth operation.
 - Configured and managed a Debian-based PXE server to maintain consistent system images.
 - Provided setup and technical assistance for events requiring use of gaming systems as needed.
 
 
-### Student Affairs and Diversity IT – Helpdesk Technician
-<p><SplitText left='Oakland University, Rochester, MI' right='August 2021 – September 2023' /></p>
+### Student Affairs and Diversity IT - Helpdesk Technician {#sadit}
+<p><SplitText left='Oakland University, Rochester, MI' right='August 2021 - September 2023' /></p>
 
 - Assisted faculty and staff across 20+ departments by resolving technical issues, maintaining their IT infrastructure, and troubleshooting PCs, Apple computers and iPads, VoIP phones, and printers.
-- Managed 450+ PC objects in Active Directory and maintained Apple computers and devices within OU’s Jamf instance; created new computer objects and configurations as needed.
-- Created Dell Premier quotes for new computer procurement, imaged and configured new devices, and created a custom Windows 10 installer with the division’s standard programs and adjustments.
+- Managed 450+ PC objects in Active Directory and maintained Apple computers and devices within OU's Jamf instance; created new computer objects and configurations as needed.
+- Created Dell Premier quotes for new computer procurement, imaged and configured new devices, and created a custom Windows 10 installer with the division's standard programs and adjustments.
 
 ## Work Projects
 
-### Student Affairs and Diversity IT – Grizz Den ggLeap/ggRock Setup
-<p><SplitText left='Oakland University, Rochester, MI' right='June 2023 – August 2023' /></p>
+### Student Affairs and Diversity IT - Grizz Den ggLeap/ggRock Setup {#grizz-den-setup}
+<p><SplitText left='Oakland University, Rochester, MI' right='June 2023 - August 2023' /></p>
 
 - Set up and configured the Debian-based ggRock PXE server for the Grizz Den in the Oakland Center.
 - Created a Windows image, and installed basic programs, game launchers, and games for the center's 28 PCs to boot into, reducing the effort needed for new game installs, game updates, Windows updates, etc.
-- Imaged SSDs of all PCs with a “fallback image” in the event that the server goes down or is not allowing PXE boot.
+- Imaged SSDs of all PCs with a "fallback image" in the event that the server goes down or is not allowing PXE boot.
 
 ## Course Projects
 
-### System Administration – Nextcloud
+### System Administration - Nextcloud {#nextcloud}
 [Project link](projects/nextcloud.md)
 
 - Deployed and configured Nextcloud on a VM in Google Cloud, including baseline configuration and automation features.
 - Implemented periodic backups as well as a documentation website alongside the service.
 
-### Database Design and Implementation – Dashboard.lol
+### Database Design and Implementation - Dashboard.lol {#dashboard}
 [Project link](projects/dashboard.lol.md)
 
 - Collaborated with a partner to create a customizable, widget-based dashboard with PHP and Bootstrap.
 - Designed and implemented the backend for the website, including database creation and setup with MySQL workbench and Python scripts for data-fetching widgets.
 
-### Senior Capstone - Scribe
+### Senior Capstone - Scribe {#scribe}
 [Project link](projects/scribe.md)
 
 - Developed the frontend for Scribe, an AI transcription and summarization tool made entirely in Python.
@@ -65,7 +65,7 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 
 ## Leadership Experience
 
-### Robotics Association at Oakland University
+### Robotics Association at Oakland University {#robotics}
 <p><SplitText left='**President & Software Lead**' right='September 2019 - July 2024' /></p>
 
 - Led team members in the designing and construction of an autonomous robot and participated in the 2024 Intelligent Ground Vehicle Competition (IGVC).
@@ -74,7 +74,7 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 - Previous Roles:
     - Vice President & Software Lead (July 2022 - June 2023)
     - Treasurer (July 2021 - July 2022)
-    - Member (September 2019 – July 2021)
+    - Member (September 2019 - July 2021)
 
 [IGVC Project link](projects/igvc.md)
 
