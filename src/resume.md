@@ -81,13 +81,13 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 ## Technical Skills
 
 ### Programming Languages
-Python, JavaScript, Java, C, SQL
+Python, Bash, JavaScript/TypeScript, Java, C, SQL
 
 ### Software Applications
-Git/GitHub, Atlassian Jira/Trello, ROS/ROS2, Docker, Microsoft Office, Google Suite
+Git/GitHub, Jira/Trello, ROS/ROS2, React, Docker, Microsoft Office, Google Suite
 
 ### Operating Systems
-Windows 7/8/10/11, macOS, Ubuntu, Debian
+Windows 7/8/10/11, macOS, Linux (Ubuntu, Debian)
 
 ## Awards
 
