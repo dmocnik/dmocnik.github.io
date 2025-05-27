@@ -31,7 +31,7 @@ export default defineConfig({
       },
       {
         text: 'Blog',
-        link: '/blog/initializing',
+        link: '/blog/minirack',
         activeMatch: '/blog/'
       }
     ],
@@ -52,7 +52,8 @@ export default defineConfig({
         text: 'Blog',
         collapsed: false,
         items: [
-          { text: 'Intializing...', link: '/blog/initializing' }
+          { text: 'Mini Rack Build Log', link: '/blog/minirack' },
+          { text: 'Initializing...', link: '/blog/initializing' }
         ]
       }
     ],
