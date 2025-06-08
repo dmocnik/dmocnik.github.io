@@ -14,9 +14,9 @@ hero:
     - theme: brand
       text: Projects
       link: /projects/nextcloud
-    - theme: alt
-      text: Blog
-      link: /blog/minirack
+    #- theme: alt
+    #  text: Blog
+    #  link: /blog/minirack
 ---
 
 <!-- <div class="video-background">

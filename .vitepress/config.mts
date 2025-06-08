@@ -29,11 +29,11 @@ export default defineConfig({
         link: '/projects/nextcloud',
         activeMatch: '/projects/'
       },
-      {
+      /* {
         text: 'Blog',
         link: '/blog/minirack',
         activeMatch: '/blog/'
-      }
+      } */
     ],
 
     sidebar: [
@@ -48,14 +48,14 @@ export default defineConfig({
           //{ text: 'Lyric Generator', link: '/projects/lyric-generator' }
         ]
       },
-      {
+      /* {
         text: 'Blog',
         collapsed: false,
         items: [
           { text: 'Mini Rack Build Log', link: '/blog/minirack' },
           { text: 'Initializing...', link: '/blog/initializing' }
         ]
-      }
+      } */
     ],
 
     socialLinks: [
