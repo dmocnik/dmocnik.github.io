@@ -57,10 +57,10 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 - Collaborated with a partner to create a customizable, widget-based dashboard with PHP and Bootstrap.
 - Designed and implemented the backend for the website, including database creation and setup with MySQL workbench and Python scripts for data-fetching widgets.
 
-### Senior Capstone - Scribe {#scribe}
-[Project link](projects/scribe.md)
+### Senior Capstone - [name here] {#capstone}
+[Project link](projects/capstone.md)
 
-- Developed the frontend for Scribe, an AI transcription and summarization tool made entirely in Python.
+- Developed the frontend for [name here], an AI transcription and summarization tool made entirely in Python.
 - Worked in a six-member team to deliver full-stack solution with stack components including FastAPI and MariaDB, and AI services such as OpenAI's Whisper and ChatGPT, and ElevenLabs.
 
 ## Leadership Experience
@@ -72,7 +72,7 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 - Designed and implemented the software for the robot utilizing Robot Operating System 2 (ROS2) and assisted the mechanical and electrical sub-teams where required.
 - Coordinated with other student organizations and staff members within the School of Engineering and Computer Science to facilitate events, safety training sessions, meetings, etc.  
 - Previous Roles:
-    - Vice President & Software Lead (July 2022 - June 2023)
+    - ???? (July 2022 - June 2023)
     - Treasurer (July 2021 - July 2022)
     - Member (September 2019 - July 2021)
 

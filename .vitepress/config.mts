@@ -43,7 +43,7 @@ export default defineConfig({
         items: [
           { text: 'Nextcloud', link: '/projects/nextcloud' },
           { text: 'Dashboard.lol', link: '/projects/dashboard.lol' },
-          { text: 'Scribe', link: '/projects/scribe' },
+          { text: 'Dan\'s Capstone Project', link: '/projects/capstone' },
           { text: 'IGVC Robot', link: '/projects/igvc' },
           //{ text: 'Lyric Generator', link: '/projects/lyric-generator' }
         ]

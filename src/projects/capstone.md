@@ -1,4 +1,4 @@
-# Scribe 📝
+# [name here] 📝
 
 ## Overview
 
@@ -8,7 +8,7 @@ Senior Capstone Project (CSI 4999)
 
 ### Description
 
-Scribe is an AI-powered transcription and summarization tool that was designed to be used for education purposes.
+[name here] is an AI-powered transcription and summarization tool that was designed to be used for education purposes.
 Users can create an account for the website, upload videos of their lectures (or other educational videos), and have them summarized by AI in several formats, such as notes pages, an "audiobook" format, or a summarized slideshow video.
 The tool uses various AI services, like OpenAI's Whisper for text transcription, ChatGPT for text summarization, and ElevenLabs for the text-to-speech features.
 The tool also made use of Docker and a GitHub CI/CD pipeline to automatically build the Docker image.
@@ -28,10 +28,10 @@ In our class's presentation competition, we took first place in Technical Impact
 
 *Click to enlarge.*
 
-<Image src='/projects/scribe_0.png' caption='Sign in/account creation page'/>
+<Image src='/projects/capstone_0.png' caption='Sign in/account creation page'/>
 
-<Image src='/projects/scribe_1.png' caption='"My Projects" page, where users can view and manage their lecture uploads'/>
+<Image src='/projects/capstone_1.png' caption='"My Projects" page, where users can view and manage their lecture uploads'/>
 
-<Image src='/projects/scribe_2.png' caption='A project, where users upload their lecture, and view the various AI-generated media'/>
+<Image src='/projects/capstone_2.png' caption='A project, where users upload their lecture, and view the various AI-generated media'/>
 
-<Image src='/projects/scribe_poster.png' caption='Design Expo Poster'/>
+<Image src='/projects/capstone_poster.png' caption='Design Expo Poster ;)'/>
