@@ -1,4 +1,12 @@
-# Dashboard.lol 📊
+---
+icon: 📊
+title: Dashboard.lol
+details: Customizable dashboard with database integration
+---
+
+# {{ $frontmatter.title }} {{ $frontmatter.icon }}
+
+{{ $frontmatter.details }}
 
 ## Overview
 

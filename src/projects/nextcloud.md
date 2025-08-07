@@ -1,4 +1,12 @@
-# Nextcloud ☁
+---
+icon: ☁
+title: Nextcloud
+details: Nextcloud deployment with Linux automation
+---
+
+# {{ $frontmatter.title }} {{ $frontmatter.icon }}
+
+{{ $frontmatter.details }}
 
 ## Overview
 

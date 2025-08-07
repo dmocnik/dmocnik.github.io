@@ -1,6 +1,12 @@
-# Mini Rack Build Log
+---
+icon: 🖥
+title: Mini Rack Build Log
+date: May 27, 2025
+---
 
-May 27, 2025
+# {{ $frontmatter.title }}
+
+{{ $frontmatter.date }}
 
 ## Introduction
 

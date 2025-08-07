@@ -1,4 +1,12 @@
-# Scribe 📝
+---
+icon: 📝
+title: Scribe
+details: AI-powered lecture summarization tool
+---
+
+# {{ $frontmatter.title }} {{ $frontmatter.icon }}
+
+{{ $frontmatter.details }}
 
 ## Overview
 

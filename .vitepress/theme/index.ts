@@ -14,6 +14,7 @@ import './custom.css'
 import Image from '../components/Image.vue';
 import SplitText from '../components/SplitText.vue';
 import YouTubeVideo from '../components/YouTubeVideo.vue'
+import CustomFeatures from '../components/CustomFeatures.vue';
 
 export default {
   ...DefaultTheme,
@@ -22,7 +23,8 @@ export default {
       ctx.app.component('vImageViewer', vImageViewer);
       ctx.app.component('Image', Image);
       ctx.app.component('SplitText', SplitText);
-      ctx.app.component('YouTubeVideo', YouTubeVideo)
+      ctx.app.component('YouTubeVideo', YouTubeVideo);
+      ctx.app.component('CustomFeatures', CustomFeatures);
   },
   setup() {
       const route = useRoute();

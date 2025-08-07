@@ -1,10 +1,18 @@
-# IGVC Robot 🤖
+---
+icon: 🤖
+title: IGVC Robot
+details: Autonomous robot for obstacle navigation
+---
+
+# {{ $frontmatter.title }} {{ $frontmatter.icon }}
+
+{{ $frontmatter.details }}
 
 ## Overview
 
 ### Created For
 
-[Robotics Association at Oakland University!](https://oaklandrobotics.org/)
+[Robotics Association at Oakland University!](https://oaklandrobotics.github.io/)
 
 ### Description
 

@@ -26,12 +26,12 @@ export default defineConfig({
       { text: 'Resume', link: '/resume' },
       {
         text: 'Projects',
-        link: '/projects/nextcloud',
+        link: '/projects',
         activeMatch: '/projects/'
       },
       {
         text: 'Blog',
-        link: '/blog/minirack',
+        link: '/blog',
         activeMatch: '/blog/'
       }
     ],

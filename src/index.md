@@ -13,10 +13,10 @@ hero:
       link: /resume
     - theme: brand
       text: Projects
-      link: /projects/nextcloud
+      link: /projects
     - theme: alt
       text: Blog
-      link: /blog/minirack
+      link: /blog
 ---
 
 <!-- <div class="video-background">

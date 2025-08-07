@@ -1,6 +1,12 @@
-# Initializing...
+---
+icon: 👋
+title: Initializing...
+date: July 23, 2024
+---
 
-July 23, 2024
+# {{ $frontmatter.title }}
+
+{{ $frontmatter.date }}
 
 ## Hello!
 
