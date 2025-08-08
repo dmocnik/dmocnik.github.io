@@ -19,7 +19,7 @@ next: false
   })
 </script>
 
-# Blog
+# Writings
 
 Click on a card to read.
 

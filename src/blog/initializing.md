@@ -10,7 +10,8 @@ date: July 23, 2024
 
 ## Hello!
 
-This is the first post on the blog section of this website.
+This is the first entry in the writings section of this site.
+I started this space to showcase things that aren't really "meant" for a resume, as well as things I'm working on in my spare time.
 While I'm still figuring out the topics, I'll likely cover hobby projects, photography, or other random interests.
 
 For now, enjoy this dad joke:

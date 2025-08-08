@@ -30,7 +30,7 @@ export default defineConfig({
         activeMatch: '/projects/'
       },
       {
-        text: 'Blog',
+        text: 'Writings',
         link: '/blog',
         activeMatch: '/blog/'
       }
@@ -49,7 +49,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Blog',
+        text: 'Writings',
         collapsed: false,
         items: [
           { text: 'Mini Rack Build Log', link: '/blog/minirack' },
@@ -72,7 +72,7 @@ export default defineConfig({
     outline: 'deep',
 
     footer: {
-      copyright: '© 2024 Dan Mocnik'
+      copyright: '© 2025 Dan Mocnik'
     },
 
     lastUpdated: {
