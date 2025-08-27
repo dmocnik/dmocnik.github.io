@@ -69,25 +69,26 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 <p><SplitText left='**President & Software Lead**' right='September 2019 - July 2024' /></p>
 
 - Led team members in the designing and construction of an autonomous robot and participated in the 2024 Intelligent Ground Vehicle Competition (IGVC).
-- Designed and implemented the software for the robot utilizing Robot Operating System 2 (ROS2) and assisted the mechanical and electrical sub-teams where required.
-- Coordinated with other student organizations and staff members within the School of Engineering and Computer Science to facilitate events, safety training sessions, meetings, etc.  
-- Previous Roles:
-    - Vice President & Software Lead (July 2022 - June 2023)
-    - Treasurer (July 2021 - July 2022)
-    - Member (September 2019 - July 2021)
+- Designed and implemented the robot’s software with Robot Operating System 2 (ROS2) and integrated sensors (LiDAR, GPS, ZED depth camera) on a Nvidia Jetson-based platform.
+- Collaborated with the mechanical and electrical sub-teams for sensor mounting, power distribution, and cable management.
+- Coordinated with other student organizations and staff members within the School of Engineering and Computer Science to facilitate events, safety training sessions, meetings, etc.
+- Previous roles include: Vice President & Software Lead (July 2022 - June 2023), Treasurer (July 2021 - July 2022), Member (September 2019 - July 2021)
 
 [IGVC Project link](projects/igvc.md)
 
 ## Technical Skills
 
 ### Programming Languages
-Python, Bash, JavaScript/TypeScript, Java, C, SQL
+Python, Bash, PowerShell, JavaScript/TypeScript, HTML/CSS, Java, C, C#, SQL
 
 ### Software Applications
 Git/GitHub, Jira/Trello, ROS/ROS2, React, Docker, Microsoft Office, Google Suite
 
 ### Operating Systems
 Windows 7/8/10/11, macOS, Linux (Ubuntu, Debian)
+
+### System Administration
+Networking, Computer Hardware, VMs, Server Administration, Troubleshooting
 
 ## Awards
 
