@@ -11,12 +11,12 @@ hero:
     - theme: brand
       text: Resume
       link: /resume
-    - theme: brand
+    - theme: alt
       text: Projects
       link: /projects
-    - theme: alt
-      text: Writings
-      link: /blog
+    #- theme: alt
+    #  text: Writings
+    #  link: /blog
 ---
 
 <!-- <div class="video-background">

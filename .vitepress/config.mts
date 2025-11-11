@@ -29,11 +29,11 @@ export default defineConfig({
         link: '/projects',
         activeMatch: '/projects/'
       },
-      {
+      /* {
         text: 'Writings',
         link: '/blog',
         activeMatch: '/blog/'
-      }
+      } */
     ],
 
     sidebar: [
@@ -48,14 +48,14 @@ export default defineConfig({
           //{ text: 'Lyric Generator', link: '/projects/lyric-generator' }
         ]
       },
-      {
+      /* {
         text: 'Writings',
         collapsed: false,
         items: [
           { text: 'Mini Rack Build Log', link: '/blog/minirack' },
           { text: 'Initializing...', link: '/blog/initializing' }
         ]
-      }
+      } */
     ],
 
     socialLinks: [
