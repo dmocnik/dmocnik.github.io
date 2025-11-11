@@ -30,9 +30,9 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 ### Student Affairs and Diversity IT - Helpdesk Technician {#sadit}
 <p><SplitText left='Oakland University, Rochester, MI' right='August 2021 - September 2023' /></p>
 
-- Assisted faculty and staff across 20+ departments by resolving technical issues, maintaining their IT infrastructure, and troubleshooting PCs, Apple computers and iPads, VoIP phones, and printers.
-- Managed 450+ PC objects in Active Directory and maintained Apple computers and devices within OU's Jamf instance; created new computer objects and configurations as needed.
-- Created Dell Premier quotes for new computer procurement, imaged and configured new devices, and created a custom Windows 10 installer with the division's standard programs and adjustments.
+- Assisted faculty and staff across 27 departments by providing front-line IT support, resolving technical issues, and troubleshooting PCs, iPads, printers, and VoIP phones.
+- Supported users by configuring, maintaining, and updating workstations, and assisting with issues such as printer & network drive mappings, VPN setup, password resets, etc.
+- Automated inventory collection and management with a custom Python script, improving efficiency of new computer setups and inventory audits.
 
 ## Work Projects
 
@@ -87,8 +87,8 @@ Git/GitHub, Jira/Trello, ROS/ROS2, React, Docker, Microsoft Office, Google Suite
 ### Operating Systems
 Windows 7/8/10/11, macOS, Linux (Ubuntu, Debian)
 
-### System Administration
-Networking, Computer Hardware, VMs, Server Administration, Troubleshooting
+### IT
+PC/Laptop Hardware, Documentation, Ticketing Systems, TCP/IP, DHCP, DNS, Active Directory, Jamf
 
 ## Awards
 
