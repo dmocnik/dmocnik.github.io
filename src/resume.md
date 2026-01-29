@@ -19,13 +19,15 @@ Recent computer science graduate with hands-on experience in IT, robotics, and s
 
 ## Work Experience
 
+### Rochester Community Schools - Tech Assistant {#rcs}
+<p><SplitText left='Rochester Hills, MI' right='January 2026 - ' /></p>
+
 ### Oakland Center - Grizz Den Technology Assistant {#grizz-den}
 <p><SplitText left='Oakland University, Rochester, MI' right='September 2023 - May 2024' /></p>
 
 - Maintained 28 gaming systems by applying the latest game patches and troubleshooting hardware and software problems to ensure smooth operation.
 - Configured and managed a Debian-based PXE server to maintain consistent system images.
 - Provided setup and technical assistance for events requiring use of gaming systems as needed.
-
 
 ### Student Affairs and Diversity IT - Helpdesk Technician {#sadit}
 <p><SplitText left='Oakland University, Rochester, MI' right='August 2021 - September 2023' /></p>
